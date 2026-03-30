@@ -24,7 +24,7 @@ A modern and responsive clone of the Razorpay website, built to replicate the UI
 
 ## 🌐 Live Demo
 
-https://devangs581-gif.github.io/razorpayclone/
+https://devangs581-gif.github.io/Razorpay-Clone/
 
 ---
 
